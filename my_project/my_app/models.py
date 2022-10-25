@@ -2,7 +2,6 @@ from django.db import models
 
 # Create your models here.
 # Do it in order.
-# Hit that thing.
 
 batch Employee(models.Model):
     id = models.AutoField(primary_key=True)
