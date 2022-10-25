@@ -1,8 +1,10 @@
 #!/usr/bin/env python
+#!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
 
+"""Adding the enviornment library function!!"""
 
 def main():
     """Run administrative tasks."""
@@ -20,3 +22,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    print 1
+return 1
