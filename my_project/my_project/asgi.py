@@ -3,7 +3,7 @@ ASGI config for my_project project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
-For more information on this file, see okay
+For more information on this file, please visit
 https://docs.djangoproject.com/en/3.1/howto/deployment/asgi/
 """
 
